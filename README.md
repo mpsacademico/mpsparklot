@@ -45,7 +45,7 @@ Ainda existem os **requisitos de domínio**, que são responsáveis por represen
 
 Após o levantamento de requisitos, a equipe de desenvolvimento tem conhecimento sobre as necessidades do solicitante. O diagrama de casos de uso tem o objetivo de facilitar a comunicação com o cliente, sendo que descreve um cenário com todas as funcionalidades descritas a partir do ponto de vista do usuário.
 
-[Diagrama de Casos de Uso do MPS Parklot]
+<kbd>![Diagrama de Casos de Uso do MPS Parklot](https://raw.githubusercontent.com/wiki/mpsacademico/mpsparklot/img/mpsparklot_diagrama_casos_uso.jpg)</kbd>
 
 As elipses são os casos de uso, cada um deles possui uma documentação escrita que descreve as etapas de sua execução.
 
