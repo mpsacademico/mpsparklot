@@ -12,6 +12,35 @@ O enunciado (fictício) abaixo demostra esse tipo de situação:
 
 Essa descrição foi criada através do relato do Sr. M. Sendo que, pela natureza da situação, verifica-se a **viabilidade** da criação de um software para a solução desse problema. Justifica-se, portanto, o desenvolvimento de um sistema para suprir as necessidades do solicitante.
 
+## Levantamento de Requisitos
+
+O levantamento de requisitos é a etapa de compreensão inicial do problema. A equipe busca enxergar o problema da mesma forma que o usuário o vê. O objetivo é levantar as necessidades dos usuários. Essas necessidades são chamadas **requisitos**, sendo que podem ser classificadas em 3 tipos: funcionais, não funcionais e de domínio.
+
+Os requisitos são coletados através do contato com o usuário. Entrevistas, questionários e observação são os meios mais comuns. Os itens abaixo foram coletados através de uma reunião com o cliente, Sr. M.
+
+Os **requisitos funcionais** definem as funcionalidades do sistema.
+
+|  ID  | Descrição                                             |
+|:----:|-------------------------------------------------------|
+| RF01 | Registrar entrada de veículo                          |
+| RF02 | Registrar saída de veículo                            |
+| RF03 | Manter veículo (placa, modelo, cor)                   |
+| RF04 | Imprimir ticket do serviço em andamento               |
+| RF05 | Aplicar desconto e/ou promoção no total de um serviço |
+| RF06 | Cadastrar funcionário usuário do sistema              |
+| RF07 | Controlar permissões de acesso de usuários            |
+| RF08 | Manter tabela de preços (eventualmente promoções)     |
+| RF09 | Emitir relatório de faturamento (mensal)              |
+
+Os **requisitos não funcionais** qualificam o software em relação a suas funcionalidades. Esses requisitos abrangem itens como: confiabilidade, desempenho, portabilidade, segurança e usabilidade.
+
+|   ID  | Descrição                                           |
+|:-----:|-----------------------------------------------------|
+| RNF01 | Login obrigatório (autenticação por RG e senha)     |
+| RNF02 | Compatibilidade com o sistema operacional Windows 7 |
+
+Ainda existem os **requisitos de domínio**, que são responsáveis por representar as regras de negócio de seu domínio. Por enquanto, não foram listados esse tipo de requisito.
+
 ## Linguagens, Ferramentas e Bibliotecas
 
 - Java e SQL (MySQL)
