@@ -41,6 +41,14 @@ Os **requisitos não funcionais** qualificam o software em relação a suas func
 
 Ainda existem os **requisitos de domínio**, que são responsáveis por representar as regras de negócio de seu domínio. Por enquanto, não foram listados esse tipo de requisito.
 
+## Diagrama de Casos de Uso
+
+Após o levantamento de requisitos, a equipe de desenvolvimento tem conhecimento sobre as necessidades do solicitante. O diagrama de casos de uso tem o objetivo de facilitar a comunicação com o cliente, sendo que descreve um cenário com todas as funcionalidades descritas a partir do ponto de vista do usuário.
+
+[Diagrama de Casos de Uso do MPS Parklot]
+
+As elipses são os casos de uso, cada um deles possui uma documentação escrita que descreve as etapas de sua execução.
+
 ## Linguagens, Ferramentas e Bibliotecas
 
 - Java e SQL (MySQL)
