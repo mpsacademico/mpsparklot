@@ -1,4 +1,4 @@
-# MPS parklot
+# MPS Parklot
 Gestor de estacionamentos em Java do início ao fim
 
 ## Enunciado do Problema
