@@ -54,3 +54,7 @@ As elipses são os casos de uso, cada um deles possui uma documentação escrita
 - Java e SQL (MySQL)
 - NetBeans IDE 8.1
 - JDK 1.8
+
+## Releases
+
+DEV - MPS Parklot está em desenvolvimento. [Visite a wiki.](https://github.com/mpsacademico/mpsparklot/wiki)
